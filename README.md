@@ -33,4 +33,7 @@ ASP.NET Core supports two approaches to creating APIs: a controller-based approa
     Cross-platform
     NuGet Packages
     Attribute Routing (HTTP Verbs)
+   
+ ## License
+      This turorial is just learning approach to API from learn.microsoft.com.
   
