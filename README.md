@@ -1,7 +1,7 @@
 # Basic Testing and Learning of controller-based Web API
 ASP.NET Core supports two approaches to creating APIs: a controller-based approach and minimal APIs. One of them, this is the basics of building a controller-based web API using ASP.NET Core.
 
-  ## Screenshots
+   ## Screenshots
   
   ### Overview
 ![overview](https://user-images.githubusercontent.com/69867926/222469331-44e6d10e-0212-4bd7-bbee-e192b5a29ae1.png)
@@ -21,4 +21,16 @@ ASP.NET Core supports two approaches to creating APIs: a controller-based approa
   ### Delete Action
 ![delete_swagger](https://user-images.githubusercontent.com/69867926/222470072-959e8201-13d5-41a5-86db-91715db131b8.png)
 
+  ## Development Environment
+    Visual Studio 2022
+    .NET 7.0
+    ASP.NET Core
+    ASP.NET and web development
+  
+  ## Features
+    REST APIs
+    Swagger/OpenAI
+    Cross-platform
+    NuGet Packages
+    Attribute Routing (HTTP Verbs)
   
